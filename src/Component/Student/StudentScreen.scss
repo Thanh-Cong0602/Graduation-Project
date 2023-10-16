@@ -1,0 +1,51 @@
+@import '../scss/responsive';
+
+.student__wrapper {
+  margin-top: 70px !important;
+
+  & .stu__layout__header {
+    padding: 0;
+    background: white;
+    margin: 10px;
+    border-radius: 5;
+
+    & .stu_header_title {
+      font-size: 1.7rem !important;
+      text-transform: uppercase;
+      font-weight: 650 !important;
+      line-height: 1.2;
+      color: #676c70 !important;
+      padding-left: 10px;
+    }
+
+    @include respond(sm) {
+      & .stu_header_title {
+        font-size: 1.0rem !important;
+      }
+
+      & .stu_header_title_close {
+        display: none;
+      }
+
+      & .stu_header_btn_collapsed {
+        margin-left: 190px !important;
+        transition: 0.3s ease;
+      }
+    }
+  }
+
+  & .stu__layout__content {
+    margin: 24px 10px;
+    padding: 24px;
+    min-height: 280px;
+    background: white;
+    border-radius: 5px;
+  }
+
+  @include respond(sm) {
+    .stu_layout_res_sm {
+      padding-left: 0px !important;
+    }
+  }
+
+}

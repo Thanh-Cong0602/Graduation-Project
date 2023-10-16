@@ -1,0 +1,12 @@
+@import '../../scss/responsive';
+
+@include respond(sm) {
+  .res_stu_sider_open {
+    left: -80px !important;
+  }
+
+  .res_stu_sider_close {
+    left: 0px !important;
+  }
+}
+

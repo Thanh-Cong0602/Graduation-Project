@@ -1,0 +1,94 @@
+$sm: 576px;
+$md: 768px;
+$lg: 992px;
+$xl: 1200px;
+
+@mixin respond($breakpoint) {
+  @if $breakpoint ==md {
+    @media (max-width: $md) {
+      @content
+    }
+
+    ; //768px
+  }
+
+  @if $breakpoint ==lg {
+    @media (max-width: $lg) {
+      @content
+    }
+
+    ; //992px
+  }
+
+  @if $breakpoint ==xl {
+    @media (max-width: $xl) {
+      @content
+    }
+
+    ; //992px
+  }
+}
+
+.register__topic {
+  $transition-speed: 0.3s;
+
+  .register_res_title {
+    transition: all $transition-speed ease;
+
+    .register_res_input {
+      width: 90%;
+    }
+  }
+
+  @include respond(md) {
+    .register_res_title {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 10px;
+
+      .register_res_input {
+        width: 100%;
+      }
+    }
+  }
+
+  .register_res_advisor {
+    transition: all $transition-speed ease;
+
+  }
+
+  @include respond(lg) {
+    .register_res_advisor {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 15px;
+    }
+  }
+
+  .register_res_student {
+    transition: all $transition-speed ease;
+  }
+
+  @include respond(xl) {
+    .register_res_student {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 15px;
+    }
+  }
+
+  & .form_title {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  & .form_radio_item {
+    padding-left: 20px;
+  }
+
+}
+
+.register__disable {
+  display: none !important;
+}

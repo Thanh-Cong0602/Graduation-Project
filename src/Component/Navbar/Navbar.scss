@@ -1,0 +1,46 @@
+@import '../scss/responsive';
+.navbar__wrapper {
+  position: fixed;
+  width: 100%;
+  top: 0px;
+  height: 60px;
+  z-index: 100;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, .08);
+  background: white;
+  img { 
+    height: 60px;
+    width: auto;
+  }
+  & .ml-auto {
+    margin-left: auto !important;
+  }
+  & .navbar_infor {
+    text-transform: uppercase;
+    font-weight: 650 !important;
+    line-height: 1.5;
+    color: #676c70 !important;
+    text-align: justify;
+  }
+  @include respond(sm) {
+    .navbar_infor_close {
+      display: none;
+    }
+  }
+  & .navbar_login {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #676c70 !important;
+    text-align: justify;
+    & .navbar_user_img {
+      height: auto;
+      width: 50px;
+      border-radius: 50%;
+    }
+    @include respond(md) {
+      & .user_name_close {
+        display: none;
+      }
+    }
+  }
+  
+}

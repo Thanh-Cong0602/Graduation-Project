@@ -1,0 +1,57 @@
+.delegation__login {
+  background: rgb(248, 248, 248);
+  padding: 10vh;
+  height: 80vh;
+
+  & .delegation__form {
+    width: 400px;
+    margin: 0px auto;
+    border-radius: 10px;
+    background: white;
+    box-shadow: 0 0.5rem 1rem rgba(215, 15, 15, 0.15);
+    text-align: center;
+    padding: 50px;
+
+    img {
+      height: 200px;
+      width: auto;
+    }
+
+    p {
+      padding-top: 10px;
+    }
+  }
+}
+
+.screen__login {
+  background: rgb(248, 248, 248);
+  padding: 10vh;
+  height: 80vh;
+
+  
+  & .screen_login_container {
+    width: 900px;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 15px 16.83px 0.17px;
+    background: rgb(255, 255, 255);
+    margin: 0px auto;
+    border-radius: 20px;
+
+    & .screen_login_logo {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    & .screen_login_form {
+      h1 {
+        font-weight: bold;
+        text-align: center;
+        font-family: Roboto;
+      }
+
+      & .login-form-button {
+        width: 40%;
+      }
+    }
+  }
+}
