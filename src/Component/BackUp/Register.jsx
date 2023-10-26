@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './ImplementTopic.scss'
+import './RegisterTopic.scss'
 import { Radio, Form, Input, Button } from 'antd';
 import { Col, Row } from 'antd';
 import { Select } from 'antd';

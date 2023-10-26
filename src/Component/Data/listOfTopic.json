@@ -1,0 +1,417 @@
+[
+  {
+    "ID": "1",
+    "key": "1",
+    "titleOfTopicVN": "Phát triển hệ thống quản lý đề tài đồ án tốt nghiệp",
+    "titleOfTopicEN": "Developing a capstone project topic management system",
+    "listOfAdvisors": [
+      {
+        "name": "Phan Trọng Nhân",
+        "email": "nhanpt@hcmut.edu.vn"
+      }
+    ],
+    "specialization": [
+      "CS",
+      "CE"
+    ],
+    "educationProgram": [
+      "Chính quy"
+    ],
+    "listOfStudents": [
+      {
+        "id": "16ff7669-35d2-4496-a40e-0b9564b7a074",
+        "MSSV": 2012752,
+        "firstname": "Nguyễn Thành",
+        "lastname": "An",
+        "nameofstudent": "Nguyễn Thành Công",
+        "email": "cong.nguyen0602@hcmut.edu.vn"
+      },
+      {
+        "id": "16ff7669-35d2-4496-a40e-0b9234cfa074",
+        "MSSV": 2014659,
+        "firstname": "Nguyễn Mạnh",
+        "lastname": "Thuyên",
+        "nameofstudent": "Nguyễn Mạnh Thuyên",
+        "email": "thuyen.nguyennmt942@hcmut.edu.vn"
+      },
+      {
+        "id": "16ff7669-35d2-4496-a40e-0b9234g9l074",
+        "MSSV": 2014982,
+        "firstname": "Phạm Thanh",
+        "lastname": "Tú",
+        "nameofstudent": "Phạm Thanh Tú",
+        "email": "tu.phamcolen@hcmut.edu.vn"
+      }
+    ],
+    "topicInformation": "Xây dựng hệ thống hỗ trợ trong việc đăng ký đề tài đồ án tốt nghiệp, theo dõi và cập nhật tiến độ của quy trình xét duyệt đồ án. Nghiên cứu vận dụng các kỹ thuật, công nghệ giúp dễ dàng mở rộng và tương thích với nhiều hệ thống. Hỗ trợ đăng ký đồ án theo quy trình rõ ràng, có hệ thống; người dùng có liên quan có thể theo dõi thông tin và kết quả đăng ký, xét duyệt đề tài.",
+    "missonInformation": "-Tìm hiểu và phân tích vai trò người dùng, quy trình đăng ký đồ án hai giai đoạn ở Khoa KH&KT Máy tính. -Nhận diện các bài toán liên quan và đề xuất giải pháp."
+  },
+  {
+    "ID": "2",
+    "key": "2",
+    "titleOfTopicVN": "Phát triển hệ thống hỗ trợ kết nối cộng đồng AI",
+    "titleOfTopicEN": "Developing an AI community connecting system",
+    "listOfAdvisors": [
+      {
+        "name": "Phan Trọng Nhân",
+        "email": "nhanpt@hcmut.edu.vn"
+      }
+    ],
+    "specialization": [
+      "CS"
+    ],
+    "educationProgram": [
+      "Chính quy"
+    ],
+    "listOfStudents": [
+      {
+        "id": "16ff7669-35d2-4496-a40e-0b9564b7a074",
+        "MSSV": 2013540,
+        "firstname": "Hà Trung",
+        "lastname": "Kiên",
+        "nameofstudent": "Hà Trung Kiên",
+        "email": " kien.ha04102002@hcmut.edu.vn"
+      },
+      {
+        "id": "16ff7669-35d2-4496-a40e-0b9234cfa074",
+        "MSSV": 2012924,
+        "firstname": "Lương Hồng Tiến",
+        "lastname": "Đạt",
+        "nameofstudent": "Lương Hồng Tiến Đạt",
+        "email": "dat.luongmason@hcmut.edu.vn"
+      },
+      {
+        "id": "16ff7669-35d2-4496-a40e-0b9234g9l074",
+        "MSSV": 201182,
+        "firstname": "Hà Phan Thiên",
+        "lastname": "Phú",
+        "nameofstudent": "Hà Phan Thiên Phú",
+        "email": "phu.hahaphanthienphultt@hcmut.edu.vn"
+      }
+    ],
+    "topicInformation": "Hệ thống là một mạng xã hội đặc biệt cho phép người dùng AI với các vai trò khác nhau tham gia. Các doanh nghiệp hoặc công ty có thể dựa vào mạng này để tìm các nguồn lực để triển khai hệ thống AI cũng như giải pháp của họ.Để đảm bảo chất lượng và hiệu quả cho các dự án, nhân lực sẽ được đánh giá dựa trên cấp độ phù hợp với từng dự án. Người dùng có thể tạo các dự án và yêu cầu nguồn lực và hạ tầng. Hệ thống sẽ đảm nhận trách nhiệm kết nối người tạo dự án với các chuyên gia trong các lĩnh vực tương ứng và cung cấp nguồn lực và hạ tầng. Một số yêu cầu tính năng như sau: -Xác thực năng lực/thông tin AI của các bên tham gia",
+    "missonInformation": "Tìm hiểu các đặc trưng của một hệ thống kết nối cộng đồng AI."
+  },
+  {
+    "ID": "3",
+    "key": "3",
+    "titleOfTopicVN": "Xây dựng ứng dụng c2c cung cấp dịch vụ chụp và in ản",
+    "titleOfTopicEN": "Build a c2c application providing photo studio and printing services",
+    "listOfAdvisors": [
+      {
+        "name": "Trần Thị Quế Nguyệt",
+        "email": "ttqnguyet@hcmut.edu.vn"
+      }
+    ],
+    "specialization": [
+      "CS"
+    ],
+    "educationProgram": [
+      "Chính quy"
+    ],
+    "listOfStudents": [
+      {
+        "id": "16ff7669-35d2-4496-a40e-0b9564b7a074",
+        "MSSV": 2013540,
+        "firstname": "Đoàn Thị Thảo",
+        "lastname": "Nhi",
+        "nameofstudent": "Đoàn Thị Thảo Nhi",
+        "email": " kien.ha04102002@hcmut.edu.vn"
+      },
+      {
+        "id": "16ff7669-35d2-4496-a40e-0b9234cfa074",
+        "MSSV": 2012924,
+        "firstname": "Lương Hồng Tiến",
+        "lastname": "Đạt",
+        "nameofstudent": "Lương Hồng Tiến Đạt",
+        "email": "dat.luongmason@hcmut.edu.vn"
+      },
+      {
+        "id": "16ff7669-35d2-4496-a40e-0b9234g9l074",
+        "MSSV": 201182,
+        "firstname": "Hà Phan Thiên",
+        "lastname": "Phú",
+        "nameofstudent": "Hà Phan Thiên Phú",
+        "email": "phu.hahaphanthienphultt@hcmut.edu.vn"
+      }
+    ],
+    "topicInformation": "Hệ thống là một mạng xã hội đặc biệt cho phép người dùng AI với các vai trò khác nhau tham gia. Các doanh nghiệp hoặc công ty có thể dựa vào mạng này để tìm các nguồn lực để triển khai hệ thống AI cũng như giải pháp của họ.Để đảm bảo chất lượng và hiệu quả cho các dự án, nhân lực sẽ được đánh giá dựa trên cấp độ phù hợp với từng dự án. Người dùng có thể tạo các dự án và yêu cầu nguồn lực và hạ tầng. Hệ thống sẽ đảm nhận trách nhiệm kết nối người tạo dự án với các chuyên gia trong các lĩnh vực tương ứng và cung cấp nguồn lực và hạ tầng. Một số yêu cầu tính năng như sau: -Xác thực năng lực/thông tin AI của các bên tham gia",
+    "missonInformation": "Tìm hiểu các đặc trưng của một hệ thống kết nối cộng đồng AI."
+  },
+  {
+    "ID": "3",
+    "key": "4",
+    "titleOfTopicVN": "Xây dựng ứng dụng c2c cung cấp dịch vụ chụp và in ản",
+    "titleOfTopicEN": "Build a c2c application providing photo studio and printing services",
+    "listOfAdvisors": [
+      {
+        "name": "Trần Thị Quế Nguyệt",
+        "email": "ttqnguyet@hcmut.edu.vn"
+      }
+    ],
+    "specialization": [
+      "CS"
+    ],
+    "educationProgram": [
+      "Chính quy"
+    ],
+    "listOfStudents": [
+      {
+        "id": "16ff7669-35d2-4496-a40e-0b9564b7a074",
+        "MSSV": 2013540,
+        "firstname": "Đoàn Thị Thảo",
+        "lastname": "Nhi",
+        "nameofstudent": "Đoàn Thị Thảo Nhi",
+        "email": " kien.ha04102002@hcmut.edu.vn"
+      },
+      {
+        "id": "16ff7669-35d2-4496-a40e-0b9234cfa074",
+        "MSSV": 2012924,
+        "firstname": "Lương Hồng Tiến",
+        "lastname": "Đạt",
+        "nameofstudent": "Lương Hồng Tiến Đạt",
+        "email": "dat.luongmason@hcmut.edu.vn"
+      },
+      {
+        "id": "16ff7669-35d2-4496-a40e-0b9234g9l074",
+        "MSSV": 201182,
+        "firstname": "Hà Phan Thiên",
+        "lastname": "Phú",
+        "nameofstudent": "Hà Phan Thiên Phú",
+        "email": "phu.hahaphanthienphultt@hcmut.edu.vn"
+      }
+    ],
+    "topicInformation": "Hệ thống là một mạng xã hội đặc biệt cho phép người dùng AI với các vai trò khác nhau tham gia. Các doanh nghiệp hoặc công ty có thể dựa vào mạng này để tìm các nguồn lực để triển khai hệ thống AI cũng như giải pháp của họ.Để đảm bảo chất lượng và hiệu quả cho các dự án, nhân lực sẽ được đánh giá dựa trên cấp độ phù hợp với từng dự án. Người dùng có thể tạo các dự án và yêu cầu nguồn lực và hạ tầng. Hệ thống sẽ đảm nhận trách nhiệm kết nối người tạo dự án với các chuyên gia trong các lĩnh vực tương ứng và cung cấp nguồn lực và hạ tầng. Một số yêu cầu tính năng như sau: -Xác thực năng lực/thông tin AI của các bên tham gia",
+    "missonInformation": "Tìm hiểu các đặc trưng của một hệ thống kết nối cộng đồng AI."
+  },
+  {
+    "ID": "4",
+    "key": "5",
+    "titleOfTopicVN": "Xây dựng hệ thống cung cấp dịch vụ xử lý và nhận diện thông tin sản phẩm cùng loại dựa trên hình ảnh ",
+    "titleOfTopicEN": "Building a service provider system for processing and identifying product information of the same type based on image",
+    "listOfAdvisors": [
+      {
+        "name": "Trần Thị Quế Nguyệt",
+        "email": "ttqnguyet@hcmut.edu.vn"
+      }
+    ],
+    "specialization": [
+      "CS"
+    ],
+    "educationProgram": [
+      "Chính quy"
+    ],
+    "listOfStudents": [
+      {
+        "id": "16ff7669-35d2-4496-a40e-0b9564b7a074",
+        "MSSV": 2013540,
+        "firstname": "Đoàn Thị Thảo",
+        "lastname": "Nhi",
+        "nameofstudent": "Đoàn Thị Thảo Nhi",
+        "email": " kien.ha04102002@hcmut.edu.vn"
+      },
+      {
+        "id": "16ff7669-35d2-4496-a40e-0b9234cfa074",
+        "MSSV": 2012924,
+        "firstname": "Lương Hồng Tiến",
+        "lastname": "Đạt",
+        "nameofstudent": "Lương Hồng Tiến Đạt",
+        "email": "dat.luongmason@hcmut.edu.vn"
+      },
+      {
+        "id": "16ff7669-35d2-4496-a40e-0b9234g9l074",
+        "MSSV": 201182,
+        "firstname": "Hà Phan Thiên",
+        "lastname": "Phú",
+        "nameofstudent": "Hà Phan Thiên Phú",
+        "email": "phu.hahaphanthienphultt@hcmut.edu.vn"
+      }
+    ],
+    "topicInformation": "Hệ thống là một mạng xã hội đặc biệt cho phép người dùng AI với các vai trò khác nhau tham gia. Các doanh nghiệp hoặc công ty có thể dựa vào mạng này để tìm các nguồn lực để triển khai hệ thống AI cũng như giải pháp của họ.Để đảm bảo chất lượng và hiệu quả cho các dự án, nhân lực sẽ được đánh giá dựa trên cấp độ phù hợp với từng dự án. Người dùng có thể tạo các dự án và yêu cầu nguồn lực và hạ tầng. Hệ thống sẽ đảm nhận trách nhiệm kết nối người tạo dự án với các chuyên gia trong các lĩnh vực tương ứng và cung cấp nguồn lực và hạ tầng. Một số yêu cầu tính năng như sau: -Xác thực năng lực/thông tin AI của các bên tham gia",
+    "missonInformation": "Tìm hiểu các đặc trưng của một hệ thống kết nối cộng đồng AI."
+  },
+  {
+    "ID": "5",
+    "key": "6",
+    "titleOfTopicVN": "Xây dựng hệ thống đánh giá luận văn tốt nghiệp trên thiết bị di động",
+    "titleOfTopicEN": "Building a thesis evaluation system on mobile device",
+    "listOfAdvisors": [
+      {
+        "name": "Trần Thị Quế Nguyệt",
+        "email": "ttqnguyet@hcmut.edu.vn"
+      }
+    ],
+    "specialization": [
+      "CS"
+    ],
+    "educationProgram": [
+      "Chính quy"
+    ],
+    "listOfStudents": [
+      {
+        "id": "16ff7669-35d2-4496-a40e-0b9564b7a074",
+        "MSSV": 2013540,
+        "firstname": "Đoàn Thị Thảo",
+        "lastname": "Nhi",
+        "nameofstudent": "Đoàn Thị Thảo Nhi",
+        "email": " kien.ha04102002@hcmut.edu.vn"
+      },
+      {
+        "id": "16ff7669-35d2-4496-a40e-0b9234cfa074",
+        "MSSV": 2012924,
+        "firstname": "Lương Hồng Tiến",
+        "lastname": "Đạt",
+        "nameofstudent": "Lương Hồng Tiến Đạt",
+        "email": "dat.luongmason@hcmut.edu.vn"
+      },
+      {
+        "id": "16ff7669-35d2-4496-a40e-0b9234g9l074",
+        "MSSV": 201182,
+        "firstname": "Hà Phan Thiên",
+        "lastname": "Phú",
+        "nameofstudent": "Hà Phan Thiên Phú",
+        "email": "phu.hahaphanthienphultt@hcmut.edu.vn"
+      }
+    ],
+    "topicInformation": "Hệ thống là một mạng xã hội đặc biệt cho phép người dùng AI với các vai trò khác nhau tham gia. Các doanh nghiệp hoặc công ty có thể dựa vào mạng này để tìm các nguồn lực để triển khai hệ thống AI cũng như giải pháp của họ.Để đảm bảo chất lượng và hiệu quả cho các dự án, nhân lực sẽ được đánh giá dựa trên cấp độ phù hợp với từng dự án. Người dùng có thể tạo các dự án và yêu cầu nguồn lực và hạ tầng. Hệ thống sẽ đảm nhận trách nhiệm kết nối người tạo dự án với các chuyên gia trong các lĩnh vực tương ứng và cung cấp nguồn lực và hạ tầng. Một số yêu cầu tính năng như sau: -Xác thực năng lực/thông tin AI của các bên tham gia",
+    "missonInformation": "Tìm hiểu các đặc trưng của một hệ thống kết nối cộng đồng AI."
+  },
+  {
+    "ID": "6",
+    "key": "7",
+    "titleOfTopicVN": " Xây dựng ứng dụng hỗ trợ quản lý bán hàng cho doanh nghiệp bán lẻ trên thiết bị di động",
+    "titleOfTopicEN": "Building a sale management system for a retail company on mobile device",
+    "listOfAdvisors": [
+      {
+        "name": "Nguyễn Thị Ái Thảo",
+        "email": "thaonguyen@hcmut.edu.vn"
+      }
+    ],
+    "specialization": [
+      "CS"
+    ],
+    "educationProgram": [
+      "Chính quy"
+    ],
+    "listOfStudents": [
+      {
+        "id": "16ff7669-35d2-4496-a40e-0b9564b7a074",
+        "MSSV": 2013540,
+        "firstname": "Đoàn Thị Thảo",
+        "lastname": "Nhi",
+        "nameofstudent": "Đoàn Thị Thảo Nhi",
+        "email": " kien.ha04102002@hcmut.edu.vn"
+      },
+      {
+        "id": "16ff7669-35d2-4496-a40e-0b9234cfa074",
+        "MSSV": 2012924,
+        "firstname": "Lương Hồng Tiến",
+        "lastname": "Đạt",
+        "nameofstudent": "Lương Hồng Tiến Đạt",
+        "email": "dat.luongmason@hcmut.edu.vn"
+      },
+      {
+        "id": "16ff7669-35d2-4496-a40e-0b9234g9l074",
+        "MSSV": 201182,
+        "firstname": "Hà Phan Thiên",
+        "lastname": "Phú",
+        "nameofstudent": "Hà Phan Thiên Phú",
+        "email": "phu.hahaphanthienphultt@hcmut.edu.vn"
+      }
+    ],
+    "topicInformation": "Xây dựng hệ thống điểm danh nhân viên bằng nhận diện khuôn mặt cho một doanh nghiệp",
+    "missonInformation": "Building a face recognition attendance system for a company."
+  },
+  {
+    "ID": "7",
+    "key": "8",
+    "titleOfTopicVN": "Xây dựng hệ thống đánh giá luận văn tốt nghiệp trên thiết bị di động",
+    "titleOfTopicEN": "Building a thesis evaluation system on mobile device",
+    "listOfAdvisors": [
+      {
+        "name": "Trần Thị Quế Nguyệt",
+        "email": "ttqnguyet@hcmut.edu.vn"
+      }
+    ],
+    "specialization": [
+      "CS"
+    ],
+    "educationProgram": [
+      "Chính quy"
+    ],
+    "listOfStudents": [
+      {
+        "id": "16ff7669-35d2-4496-a40e-0b9564b7a074",
+        "MSSV": 2013540,
+        "firstname": "Đoàn Thị Thảo",
+        "lastname": "Nhi",
+        "nameofstudent": "Đoàn Thị Thảo Nhi",
+        "email": " kien.ha04102002@hcmut.edu.vn"
+      },
+      {
+        "id": "16ff7669-35d2-4496-a40e-0b9234cfa074",
+        "MSSV": 2012924,
+        "firstname": "Lương Hồng Tiến",
+        "lastname": "Đạt",
+        "nameofstudent": "Lương Hồng Tiến Đạt",
+        "email": "dat.luongmason@hcmut.edu.vn"
+      },
+      {
+        "id": "16ff7669-35d2-4496-a40e-0b9234g9l074",
+        "MSSV": 201182,
+        "firstname": "Hà Phan Thiên",
+        "lastname": "Phú",
+        "nameofstudent": "Hà Phan Thiên Phú",
+        "email": "phu.hahaphanthienphultt@hcmut.edu.vn"
+      }
+    ],
+    "topicInformation": "Hệ thống là một mạng xã hội đặc biệt cho phép người dùng AI với các vai trò khác nhau tham gia. Các doanh nghiệp hoặc công ty có thể dựa vào mạng này để tìm các nguồn lực để triển khai hệ thống AI cũng như giải pháp của họ.Để đảm bảo chất lượng và hiệu quả cho các dự án, nhân lực sẽ được đánh giá dựa trên cấp độ phù hợp với từng dự án. Người dùng có thể tạo các dự án và yêu cầu nguồn lực và hạ tầng. Hệ thống sẽ đảm nhận trách nhiệm kết nối người tạo dự án với các chuyên gia trong các lĩnh vực tương ứng và cung cấp nguồn lực và hạ tầng. Một số yêu cầu tính năng như sau: -Xác thực năng lực/thông tin AI của các bên tham gia",
+    "missonInformation": "Tìm hiểu các đặc trưng của một hệ thống kết nối cộng đồng AI."
+  },
+  {
+    "ID": "8",
+    "key": "9",
+    "titleOfTopicVN": "Xây dựng hệ thống đánh giá luận văn tốt nghiệp trên thiết bị di động",
+    "titleOfTopicEN": "Building a thesis evaluation system on mobile device",
+    "listOfAdvisors": [
+      {
+        "name": "Trần Thị Quế Nguyệt",
+        "email": "ttqnguyet@hcmut.edu.vn"
+      }
+    ],
+    "specialization": [
+      "CS"
+    ],
+    "educationProgram": [
+      "Chính quy"
+    ],
+    "listOfStudents": [
+      {
+        "id": "16ff7669-35d2-4496-a40e-0b9564b7a074",
+        "MSSV": 2013540,
+        "firstname": "Đoàn Thị Thảo",
+        "lastname": "Nhi",
+        "nameofstudent": "Đoàn Thị Thảo Nhi",
+        "email": " kien.ha04102002@hcmut.edu.vn"
+      },
+      {
+        "id": "16ff7669-35d2-4496-a40e-0b9234cfa074",
+        "MSSV": 2012924,
+        "firstname": "Lương Hồng Tiến",
+        "lastname": "Đạt",
+        "nameofstudent": "Lương Hồng Tiến Đạt",
+        "email": "dat.luongmason@hcmut.edu.vn"
+      },
+      {
+        "id": "16ff7669-35d2-4496-a40e-0b9234g9l074",
+        "MSSV": 201182,
+        "firstname": "Hà Phan Thiên",
+        "lastname": "Phú",
+        "nameofstudent": "Hà Phan Thiên Phú",
+        "email": "phu.hahaphanthienphultt@hcmut.edu.vn"
+      }
+    ],
+    "topicInformation": "Hệ thống là một mạng xã hội đặc biệt cho phép người dùng AI với các vai trò khác nhau tham gia. Các doanh nghiệp hoặc công ty có thể dựa vào mạng này để tìm các nguồn lực để triển khai hệ thống AI cũng như giải pháp của họ.Để đảm bảo chất lượng và hiệu quả cho các dự án, nhân lực sẽ được đánh giá dựa trên cấp độ phù hợp với từng dự án. Người dùng có thể tạo các dự án và yêu cầu nguồn lực và hạ tầng. Hệ thống sẽ đảm nhận trách nhiệm kết nối người tạo dự án với các chuyên gia trong các lĩnh vực tương ứng và cung cấp nguồn lực và hạ tầng. Một số yêu cầu tính năng như sau: -Xác thực năng lực/thông tin AI của các bên tham gia",
+    "missonInformation": "Tìm hiểu các đặc trưng của một hệ thống kết nối cộng đồng AI."
+  }
+]

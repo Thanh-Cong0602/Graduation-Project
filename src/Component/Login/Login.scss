@@ -1,57 +1,122 @@
-.delegation__login {
-  background: rgb(248, 248, 248);
-  padding: 10vh;
-  height: 80vh;
+@import '../scss/responsive';
+
+.delegation__login__wrapper {
+  background: var(--bg-login);
+  height: 100vh;
+  padding-top: 10vh;
+  padding-bottom: 10vh;
 
   & .delegation__form {
-    width: 400px;
+    width: 500px;
     margin: 0px auto;
     border-radius: 10px;
     background: white;
-    box-shadow: 0 0.5rem 1rem rgba(215, 15, 15, 0.15);
+    box-shadow: 0 0.5rem 1rem rgba(76, 66, 66, 0.15);
     text-align: center;
     padding: 50px;
 
     img {
       height: 200px;
       width: auto;
+      transition: 0.3s ease;
     }
 
     p {
       padding-top: 10px;
+      color: #676c70 !important;
+      font-size: 20px !important;
+
+    }
+  }
+
+  @include respond(sm) {
+    & .delegation__form {
+      max-width: 400px !important;
+      width: auto !important;
+
+      img {
+        height: 150px !important;
+        width: auto;
+      }
     }
   }
 }
 
 .screen__login {
-  background: rgb(248, 248, 248);
-  padding: 10vh;
-  height: 80vh;
+  background: #f8f8f8;
+  height: 100vh;
+  padding-top: 10vh;
 
-  
+  @include respond(lg) {
+    & .screen_login_container {
+      width: auto !important;
+      max-width: 500px;
+
+      & .screen_login_respond {
+        flex-direction: column;
+        align-items: center;
+        gap: 10px !important;
+
+        img {
+          width: 200px !important;
+        }
+      }
+    }
+
+    & .screen_login_form {
+      max-width: 300px !important;
+      min-width: auto;
+    }
+
+  }
+
   & .screen_login_container {
     width: 900px;
+    min-height: 400px;
     box-shadow: rgba(0, 0, 0, 0.05) 0px 15px 16.83px 0.17px;
     background: rgb(255, 255, 255);
     margin: 0px auto;
     border-radius: 20px;
 
-    & .screen_login_logo {
-      display: flex;
-      align-items: center;
-      justify-content: center;
+    & .screen_login_respond {
+      img {
+        width: 300px;
+        height: auto;
+        transition: 0.3s ease;
+      }
+    }
+
+    @include respond(sm) {
+      & .screen_login_respond {
+        img {
+          width: 150px !important;
+        }
+      }
     }
 
     & .screen_login_form {
+      min-width: 300px !important;
+
       h1 {
         font-weight: bold;
         text-align: center;
-        font-family: Roboto;
+        font-family: Roboto !important;
+        font-size: 2.7rem !important;
+        transition: 0.3s ease;
       }
 
-      & .login-form-button {
+      @include respond(sm) {
+        h1 {
+          font-size: 2rem !important;
+        }
+      }
+
+      & .btn_submit_form_login {
         width: 40%;
+        margin: 0 auto;
       }
     }
   }
+
+
 }

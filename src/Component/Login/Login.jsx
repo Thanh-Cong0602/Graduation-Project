@@ -14,7 +14,7 @@ function Login() {
     navigate("/login")
   }
   return (
-    <div className='delegation__login'>
+    <div className='delegation__login__wrapper'>
       <div className='delegation__form'>
         <img src={logo_hcmut} />
         <p>Đăng nhập dành cho</p>

@@ -1,0 +1,418 @@
+[
+  {
+    "id": "16ff7669-35d2-4496-a40e-0b9564b7a074",
+    "MSSV": 2012752,
+    "firstname": "Nguyễn Thành",
+    "lastname": "An",
+    "nameofstudent": "Nguyễn Thành Công",
+    "email": "cong.nguyen0602@hcmut.edu.vn"
+   },
+   {
+    "id": "16ff7669-35d2-4496-a40e-0b9234cfa074",
+    "MSSV": 2014659,
+    "firstname": "Nguyễn Mạnh",
+    "lastname": "Thuyên",
+    "nameofstudent": "Nguyễn Mạnh Thuyên",
+    "email": "thuyen.nguyennmt942@hcmut.edu.vn"
+   },
+   {
+    "id": "16ff7669-35d2-4496-a40e-0b9234g9l074",
+    "MSSV": 2014982,
+    "firstname": "Phạm Thanh",
+    "lastname": "Tú",
+    "nameofstudent": "Phạm Thanh Tú",
+    "email": "tu.phamcolen@hcmut.edu.vn"
+   },
+  {
+   "id": "16ff7669-35d2-4496-a40e-0b9234b7a074",
+   "MSSV": 2012545,
+   "firstname": "Dư Văn An",
+   "lastname": "An",
+   "nameofstudent": "Dư Văn An",
+   "email": "cong.nguyen0602@hcmut.edu.vn"
+  },
+  {
+   "id": "3b4dfbf6-88a9-4f47-89bd-d00f80f4e6b5",
+   "MSSV": 1912532,
+   "firstname": "Nguyễn Thành An",
+   "lastname": "An",
+   "nameofstudent": "Nguyễn Thành An An",
+   "email": "cong.nguyen0602@hcmut.edu.vn"
+  },
+  {
+   "id": "67274a93-37cc-44ea-9e70-683c75a70f02",
+   "MSSV": 1852223,
+   "firstname": "Vũ Bá Thái An",
+   "lastname": "An",
+   "nameofstudent": "Vũ Bá Thái An An",
+   "email": "cong.nguyen0602@hcmut.edu.vn"
+  },
+  {
+   "id": "bdd5984e-1907-4648-adcd-7832455afb9b",
+   "MSSV": 1910752,
+   "firstname": "Lê Hoàng Anh",
+   "lastname": "Anh",
+   "nameofstudent": "Lê Hoàng Anh Anh",
+   "email": "cong.nguyen0602@hcmut.edu.vn"
+  },
+  {
+   "id": "581c1b30-60ce-48ad-b9e7-dca5756a14fc",
+   "MSSV": 2010113,
+   "firstname": "Lữ Hoàng Anh",
+   "lastname": "Anh",
+   "nameofstudent": "Lữ Hoàng Anh Anh",
+   "email": "cong.nguyen0602@hcmut.edu.vn"
+  },
+  {
+   "id": "5a322739-2fa8-476e-869e-5b04d5aac07c",
+   "MSSV": 1852238,
+   "firstname": "Nguyễn Quốc Anh",
+   "lastname": "Anh",
+   "nameofstudent": "Nguyễn Quốc Anh Anh",
+   "email": "cong.nguyen0602@hcmut.edu.vn"
+  },
+  {
+   "id": "a1bbf0c3-020b-4a00-a520-535849cd0be7",
+   "MSSV": 2012606,
+   "firstname": "Nguyễn Thị Vân Anh",
+   "lastname": "Anh",
+   "nameofstudent": "Nguyễn Thị Vân Anh Anh",
+   "email": "cong.nguyen0602@hcmut.edu.vn"
+  },
+  {
+   "id": "5460ccfe-d699-4bff-b99f-7b2de1f5da73",
+   "MSSV": 2012608,
+   "firstname": "Nguyễn Tuấn Anh",
+   "lastname": "Anh",
+   "nameofstudent": "Nguyễn Tuấn Anh Anh",
+   "email": "cong.nguyen0602@hcmut.edu.vn"
+  },
+  {
+   "id": "fb2af811-3612-4951-b7e1-8a716000a08f",
+   "MSSV": 2010133,
+   "firstname": "Trần Phúc Anh",
+   "lastname": "Anh",
+   "nameofstudent": "Trần Phúc Anh Anh",
+   "email": "cong.nguyen0602@hcmut.edu.vn"
+  },
+  {
+   "id": "4c6f597f-845d-4ed6-854a-87bbfa68df01",
+   "MSSV": 1933408,
+   "firstname": "Võ Nhật Anh",
+   "lastname": "Anh",
+   "nameofstudent": "Võ Nhật Anh Anh",
+   "email": "cong.nguyen0602@hcmut.edu.vn"
+  },
+  {
+   "id": "f21d5a18-2e47-45e9-b144-ba8b024ce1cb",
+   "MSSV": 2012646,
+   "firstname": "Lê Xuân Bách",
+   "lastname": "Bách",
+   "nameofstudent": "Lê Xuân Bách Bách",
+   "email": "cong.nguyen0602@hcmut.edu.vn"
+  },
+  {
+   "id": "ac221adc-aad0-4e4e-b839-ce8b39e92fd6",
+   "MSSV": 2012682,
+   "firstname": "Cù Thanh Bằng",
+   "lastname": "Bằng",
+   "nameofstudent": "Cù Thanh Bằng Bằng",
+   "email": "cong.nguyen0602@hcmut.edu.vn"
+  },
+  {
+   "id": "feae1f5a-6cf6-426f-aa66-e497d1a7eb76",
+   "MSSV": 2012684,
+   "firstname": "Lê Văn Bằng",
+   "lastname": "Bằng",
+   "nameofstudent": "Lê Văn Bằng Bằng",
+   "email": "cong.nguyen0602@hcmut.edu.vn"
+  },
+  {
+   "id": "79063e94-1bf1-4ac0-939b-548f6ba25e48",
+   "MSSV": 1927003,
+   "firstname": "Dương Quân",
+   "lastname": "Bảo",
+   "nameofstudent": "Dương Quân Bảo",
+   "email": "cong.nguyen0602@hcmut.edu.vn"
+  },
+  {
+   "id": "62e9c2c2-f009-4288-bfed-bc5520162e37",
+   "MSSV": 1811543,
+   "firstname": "Tô Quốc",
+   "lastname": "Bảo",
+   "nameofstudent": "Tô Quốc Bảo",
+   "email": "cong.nguyen0602@hcmut.edu.vn"
+  },
+  {
+   "id": "b886aeb8-ddcd-4f00-8eb8-192915101857",
+   "MSSV": 2052038,
+   "firstname": "Trần Quốc",
+   "lastname": "Bảo",
+   "nameofstudent": "Trần Quốc Bảo",
+   "email": "cong.nguyen0602@hcmut.edu.vn"
+  },
+  {
+   "id": "33c3febb-cb3b-44fc-93c0-215595b5a42d",
+   "MSSV": 2010924,
+   "firstname": "Trần Long",
+   "lastname": "Biên",
+   "nameofstudent": "Trần Long Biên",
+   "email": "cong.nguyen0602@hcmut.edu.vn"
+  },
+  {
+   "id": "8f09f23a-d35f-41dc-8640-65fbcb329f48",
+   "MSSV": 2010926,
+   "firstname": "Bùi Thanh",
+   "lastname": "Bình",
+   "nameofstudent": "Bùi Thanh Bình",
+   "email": "cong.nguyen0602@hcmut.edu.vn"
+  },
+  {
+   "id": "c735f144-b86d-4c94-8934-2cb3c85cf54d",
+   "MSSV": 1912713,
+   "firstname": "Bùi Tiến",
+   "lastname": "Bình",
+   "nameofstudent": "Bùi Tiến Bình",
+   "email": "cong.nguyen0602@hcmut.edu.vn"
+  },
+  {
+   "id": "114fc431-5d40-44ec-9e6c-90e0b2016f31",
+   "MSSV": 2010929,
+   "firstname": "Hồ Thanh",
+   "lastname": "Bình",
+   "nameofstudent": "Hồ Thanh Bình",
+   "email": "cong.nguyen0602@hcmut.edu.vn"
+  },
+  {
+   "id": "944c3088-fd2c-4c63-9ebc-c578752d3b10",
+   "MSSV": 1952584,
+   "firstname": "Nguyễn Thái Thanh",
+   "lastname": "Bình",
+   "nameofstudent": "Nguyễn Thái Thanh Bình",
+   "email": "cong.nguyen0602@hcmut.edu.vn"
+  },
+  {
+   "id": "53c56d6a-06c3-4d33-a464-719e5e79e364",
+   "MSSV": 2010942,
+   "firstname": "Nguyễn Kế",
+   "lastname": "Bửu",
+   "nameofstudent": "Nguyễn Kế Bửu",
+   "email": "cong.nguyen0602@hcmut.edu.vn"
+  },
+  {
+   "id": "cfa974c4-40d9-4bdd-962c-198b51276ace",
+   "MSSV": 2010947,
+   "firstname": "Lê Minh",
+   "lastname": "Châu",
+   "nameofstudent": "Lê Minh Châu",
+   "email": "cong.nguyen0602@hcmut.edu.vn"
+  },
+  {
+   "id": "a33935c0-c0e7-41d9-8152-7e9759beb514",
+   "MSSV": 2010951,
+   "firstname": "Nguyễn Thị Minh",
+   "lastname": "Châu",
+   "nameofstudent": "Nguyễn Thị Minh Châu",
+   "email": "cong.nguyen0602@hcmut.edu.vn"
+  },
+  {
+   "id": "b0aedb6a-85f4-43bb-93cf-c0c18dbff077",
+   "MSSV": 1910060,
+   "firstname": "Nhan Minh",
+   "lastname": "Châu",
+   "nameofstudent": "Nhan Minh Châu",
+   "email": "cong.nguyen0602@hcmut.edu.vn"
+  },
+  {
+   "id": "af094d3c-3250-450e-9c6e-cf1366e60acb",
+   "MSSV": 2012722,
+   "firstname": "Kazama Ken I",
+   "lastname": "Chi",
+   "nameofstudent": "Kazama Ken I Chi",
+   "email": "cong.nguyen0602@hcmut.edu.vn"
+  },
+  {
+   "id": "79e69cc6-f482-47aa-be77-9709131b63bd",
+   "MSSV": 2012727,
+   "firstname": "Chu Đình",
+   "lastname": "Chiến",
+   "nameofstudent": "Chu Đình Chiến",
+   "email": "cong.nguyen0602@hcmut.edu.vn"
+  },
+  {
+   "id": "9483a113-c82d-4923-8a8a-96ddcea395c0",
+   "MSSV": 2012738,
+   "firstname": "Lữ Trọng",
+   "lastname": "Chính",
+   "nameofstudent": "Lữ Trọng Chính",
+   "email": "cong.nguyen0602@hcmut.edu.vn"
+  },
+  {
+   "id": "44784fea-0613-451a-ae3a-bf652408c6b5",
+   "MSSV": 2012754,
+   "firstname": "Nguyễn Văn",
+   "lastname": "Công",
+   "nameofstudent": "Nguyễn Văn Công",
+   "email": "cong.nguyen0602@hcmut.edu.vn"
+  },
+  {
+   "id": "c2dd6db4-9472-4cd2-80f0-296e3a15acfc",
+   "MSSV": 2012775,
+   "firstname": "Trương Tuấn",
+   "lastname": "Cường",
+   "nameofstudent": "Trương Tuấn Cường",
+   "email": "cong.nguyen0602@hcmut.edu.vn"
+  },
+  {
+   "id": "035f9b7b-9626-4925-8244-b4ad3ea2dc3d",
+   "MSSV": 1952198,
+   "firstname": "Võ Mạnh",
+   "lastname": "Cường",
+   "nameofstudent": "Võ Mạnh Cường",
+   "email": "cong.nguyen0602@hcmut.edu.vn"
+  },
+  {
+   "id": "b572c95f-e22f-4c66-8219-d45e08e6a608",
+   "MSSV": 2052444,
+   "firstname": "Nguyễn Hải",
+   "lastname": "Đăng",
+   "nameofstudent": "Nguyễn Hải Đăng",
+   "email": "cong.nguyen0602@hcmut.edu.vn"
+  },
+  {
+   "id": "cb5be172-19d9-4a86-8c18-273b94ab902a",
+   "MSSV": 2052070,
+   "firstname": "Trần Phạm Minh",
+   "lastname": "Đăng",
+   "nameofstudent": "Trần Phạm Minh Đăng",
+   "email": "cong.nguyen0602@hcmut.edu.vn"
+  },
+  {
+   "id": "bf0c6dc7-4fc8-4466-8432-b6a8b66a448d",
+   "MSSV": 2010173,
+   "firstname": "Đặng Đức",
+   "lastname": "Danh",
+   "nameofstudent": "Đặng Đức Danh",
+   "email": "cong.nguyen0602@hcmut.edu.vn"
+  },
+  {
+   "id": "2654c4aa-3127-41af-aba4-71816ccaf8d1",
+   "MSSV": 2010986,
+   "firstname": "Võ Công",
+   "lastname": "Danh",
+   "nameofstudent": "Võ Công Danh",
+   "email": "cong.nguyen0602@hcmut.edu.vn"
+  },
+  {
+   "id": "c1ff2ed8-c69d-4fa3-aec4-e92a80bd0927",
+   "MSSV": 2010206,
+   "firstname": "Du Thành",
+   "lastname": "Đạt",
+   "nameofstudent": "Du Thành Đạt",
+   "email": "cong.nguyen0602@hcmut.edu.vn"
+  },
+  {
+   "id": "1119c3e9-df44-4424-b246-3c6328a2a87d",
+   "MSSV": 2120015,
+   "firstname": "Huỳnh Tấn",
+   "lastname": "Đạt",
+   "nameofstudent": "Huỳnh Tấn Đạt",
+   "email": "cong.nguyen0602@hcmut.edu.vn"
+  },
+  {
+   "id": "8d02f690-c949-406f-8080-c38372d5ec33",
+   "MSSV": 2012920,
+   "firstname": "Lê Tấn",
+   "lastname": "Đạt",
+   "nameofstudent": "Lê Tấn Đạt",
+   "email": "cong.nguyen0602@hcmut.edu.vn"
+  },
+  {
+   "id": "cdabfcce-0189-4067-afc1-d46743930a17",
+   "MSSV": 2012924,
+   "firstname": "Lương Hồng Tiến",
+   "lastname": "Đạt",
+   "nameofstudent": "Lương Hồng Tiến Đạt",
+   "email": "cong.nguyen0602@hcmut.edu.vn"
+  },
+  {
+   "id": "3ca36e2d-5fda-4bff-8d43-64406529149c",
+   "MSSV": 2012932,
+   "firstname": "Nguyễn Tấn",
+   "lastname": "Đạt",
+   "nameofstudent": "Nguyễn Tấn Đạt",
+   "email": "cong.nguyen0602@hcmut.edu.vn"
+  },
+  {
+   "id": "b0a50b31-7634-4174-93d3-55d3d69f3160",
+   "MSSV": 2012945,
+   "firstname": "Nguyễn Tiến",
+   "lastname": "Đạt",
+   "nameofstudent": "Nguyễn Tiến Đạt",
+   "email": "cong.nguyen0602@hcmut.edu.vn"
+  },
+  {
+   "id": "0ee42533-ab69-4d11-9033-02c494013694",
+   "MSSV": 2012959,
+   "firstname": "Trịnh Tiến",
+   "lastname": "Đạt",
+   "nameofstudent": "Trịnh Tiến Đạt",
+   "email": "cong.nguyen0602@hcmut.edu.vn"
+  },
+  {
+   "id": "80cc9939-f519-4da7-b809-33875c8485b6",
+   "MSSV": 2052450,
+   "firstname": "Lê Đức",
+   "lastname": "Đồng",
+   "nameofstudent": "Lê Đức Đồng",
+   "email": "cong.nguyen0602@hcmut.edu.vn"
+  },
+  {
+   "id": "42ad8879-f73d-42e9-91af-d2eb07052d52",
+   "MSSV": 2010228,
+   "firstname": "Huỳnh Lâm Minh",
+   "lastname": "Đức",
+   "nameofstudent": "Huỳnh Lâm Minh Đức",
+   "email": "cong.nguyen0602@hcmut.edu.vn"
+  },
+  {
+   "id": "e3f2e47e-a7e6-49ce-b8eb-4e63b57bc186",
+   "MSSV": 2010228,
+   "firstname": "Huỳnh Lâm Minh",
+   "lastname": "Đức",
+   "nameofstudent": "Huỳnh Lâm Minh Đức",
+   "email": "cong.nguyen0602@hcmut.edu.vn"
+  },
+  {
+   "id": "185faefb-9ebe-4e5b-a2ba-df0ae09dd7b5",
+   "MSSV": 2012995,
+   "firstname": "Lê Trung",
+   "lastname": "Đức",
+   "nameofstudent": "Lê Trung Đức",
+   "email": "cong.nguyen0602@hcmut.edu.vn"
+  },
+  {
+   "id": "3fe62b71-aedc-4900-bb25-fbc8eb93d5bc",
+   "MSSV": 2152528,
+   "firstname": "Nguyễn Phan Trí",
+   "lastname": "Đức",
+   "nameofstudent": "Nguyễn Phan Trí Đức",
+   "email": "cong.nguyen0602@hcmut.edu.vn"
+  },
+  {
+   "id": "07436e27-822f-4e59-930b-3a457d94e4ec",
+   "MSSV": 2010231,
+   "firstname": "Quách Minh",
+   "lastname": "Đức",
+   "nameofstudent": "Quách Minh Đức",
+   "email": "cong.nguyen0602@hcmut.edu.vn"
+  },
+  {
+   "id": "d1316746-3310-492f-bc70-84863949b3ef",
+   "MSSV": 1911071,
+   "firstname": "Trần Huy",
+   "lastname": "Đức",
+   "nameofstudent": "Trần Huy Đức",
+   "email": "cong.nguyen0602@hcmut.edu.vn"
+  }
+ ]
